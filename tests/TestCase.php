@@ -4,8 +4,8 @@ namespace Meirtin\Crypton\Tests;
 
 use Illuminate\Http\Request;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Tzsk\Crypton\CryptonServiceProvider;
-use Tzsk\Crypton\Middleware\EncryptRequestResponse;
+use Meirtin\Crypton\CryptonServiceProvider;
+use Meirtin\Crypton\Middleware\EncryptRequestResponse;
 
 class TestCase extends Orchestra
 {

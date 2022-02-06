@@ -3,7 +3,7 @@
 namespace Meirtin\Crypton;
 
 use Illuminate\Support\ServiceProvider;
-use Tzsk\Crypton\Commands\CryptonPublishCommand;
+use Meirtin\Crypton\Commands\CryptonPublishCommand;
 
 class CryptonServiceProvider extends ServiceProvider
 {

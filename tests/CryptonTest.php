@@ -2,7 +2,7 @@
 
 namespace Meirtin\Crypton\Tests;
 
-use Tzsk\Crypton\Crypton;
+use Meirtin\Crypton\Crypton;
 
 class CryptonTest extends TestCase
 {

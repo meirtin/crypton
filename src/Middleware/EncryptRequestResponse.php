@@ -5,7 +5,7 @@ namespace Meirtin\Crypton\Middleware;
 use Closure;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
-use Tzsk\Crypton\Crypton;
+use Meirtin\Crypton\Crypton;
 
 class EncryptRequestResponse
 {
