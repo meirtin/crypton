@@ -1,21 +1,15 @@
 {
-    "name": "tzsk/crypton",
+    "name": "meirtin/crypton",
     "description": "Laravel API Request Response Encryption",
     "keywords": [
-        "tzsk",
+        "meirtin",
         "crypton",
         "laravel request encrypt",
         "laravel response encrypt"
     ],
-    "homepage": "https://github.com/tzsk/crypton",
+    "homepage": "https://github.com/meirtin/crypton",
     "license": "MIT",
     "authors": [
-        {
-            "name": "Kazi Ahmed",
-            "email": "mailtokmahmed@gmail.com",
-            "homepage": "https://github.com/tzsk",
-            "role": "Developer"
-        }
     ],
     "require": {
         "php": "^7.4|^8.0",
@@ -33,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Tzsk\\Crypton\\": "src"
+            "Meirtin\\Crypton\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Tzsk\\Crypton\\Tests\\": "tests"
+            "Meirtin\\Crypton\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -53,7 +47,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Tzsk\\Crypton\\CryptonServiceProvider"
+                "Meirtin\\Crypton\\CryptonServiceProvider"
             ]
         }
     },
