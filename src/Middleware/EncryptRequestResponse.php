@@ -1,6 +1,6 @@
 <?php
 
-namespace Tzsk\Crypton\Middleware;
+namespace Meirtin\Crypton\Middleware;
 
 use Closure;
 use Illuminate\Http\JsonResponse;

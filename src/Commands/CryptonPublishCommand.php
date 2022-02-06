@@ -1,6 +1,6 @@
 <?php
 
-namespace Tzsk\Crypton\Commands;
+namespace Meirtin\Crypton\Commands;
 
 use Illuminate\Console\Command;
 

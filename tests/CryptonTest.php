@@ -1,6 +1,6 @@
 <?php
 
-namespace Tzsk\Crypton\Tests;
+namespace Meirtin\Crypton\Tests;
 
 use Tzsk\Crypton\Crypton;
 

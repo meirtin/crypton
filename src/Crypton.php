@@ -1,6 +1,6 @@
 <?php
 
-namespace Tzsk\Crypton;
+namespace Meirtin\Crypton;
 
 use Illuminate\Encryption\Encrypter;
 use Illuminate\Support\Str;

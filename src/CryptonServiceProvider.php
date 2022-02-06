@@ -1,6 +1,6 @@
 <?php
 
-namespace Tzsk\Crypton;
+namespace Meirtin\Crypton;
 
 use Illuminate\Support\ServiceProvider;
 use Tzsk\Crypton\Commands\CryptonPublishCommand;
